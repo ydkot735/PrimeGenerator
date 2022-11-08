@@ -1,3 +1,4 @@
+using System;
 public class GeneratePrimes
 {
     public static int[] GeneratePrimeNumbers(int maxValue)
